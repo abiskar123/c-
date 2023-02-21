@@ -133,7 +133,7 @@ if (temp)
 cout << " <-- ";
 }
 cout << endl;
-cout<<"There are total"<<"students in the linked list"<<endl;
+cout<<"There are total"<< c <<"students in the linked list"<<endl;
 
     }
 }
